@@ -223,6 +223,7 @@ header {
 }
 
 #peppermint {
+    margin: 0 auto;
     min-height: 600px;
     max-width: 1200px;
 }
